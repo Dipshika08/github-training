@@ -1,1 +1,2 @@
 Computer is an electronic device.
+It takes an input from the user, processes it and gives the result.

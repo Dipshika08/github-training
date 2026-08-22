@@ -1,6 +1,6 @@
 git init 
 
-following steps are to be used if any changes are doe in the file:
+following steps are to be used if any changes are done in the file:
 git add .
 git commit -m "message"
 git push origin branchname
